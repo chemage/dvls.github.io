@@ -5,6 +5,6 @@
     "build": "npx @11ty/eleventy --quiet"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"
+    "@11ty/eleventy": "^3.1.6"
   }
 }
